@@ -22,7 +22,7 @@ namespace MathLiabrarary.Nunit.Tests
 
             Assert.AreEqual(expectedResult, actualResult);
 
-            Console.WriteLine("Welcome");
+            
         }
 
 

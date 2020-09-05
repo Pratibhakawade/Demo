@@ -14,6 +14,6 @@ namespace MathLiabrarary
             return a + b;
         }
 
-        Console.WriteLine("Welcome");
+       
     }
 }
